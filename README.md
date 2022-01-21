@@ -1,16 +1,27 @@
-### Hi there 👋
+![Header](readme_headerCB.png)
 
-<!--
-**CBL2C/CBL2C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there,
 
-Here are some ideas to get you started:
+**I'm Caitlyn Boyd, and I'm learning Full-stack Software Development!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-taught student from Portland, Oregon
+
+<br>
+
+**Technologies:**  
+<code><img height="60" src="html5-brands.svg"></code>
+<code><img height="60" src="css3-alt-brands.svg"></code>
+<code><img height="60" src="react-brands.svg"></code>  
+<code><img height="60" src="js-square-brands.svg"></code>
+
+Over the past year I have spent hundreds of hours becoming familiar with Front-End development.  
+I will be beginning Back-End training at the start of March.
+
+<br>
+
+<a href="https://github.com/CBL2C/CBL2C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CBL2C&hide=prs,contribs&show_icons=true&line_height=27&count_private=true&title_color=DEB841&text_color=DEB841&border_color=DEB841&icon_color=639FAB&bg_color=24282d" />
+</a>
+<a href="https://github.com/CBL2C/CBL2C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBL2C&&tex&title_color=DEB841&text_color=DEB841&icon_color=639FAB&bg_color=24282d&border_color=DEB841&langs_count=3&layout=compact" />
+</a>
