@@ -12,7 +12,7 @@ I'm a self-taught student from Portland, Oregon
 
 **Technologies:**
 
-<code><img height="60" src="html5-brands.svg"></code> <code><img height="60" src="css3-alt-brands.svg"> <code><img height="60" src="js-square-brands.svg"></code></code> <code><img height="60" src="react-brands.svg"></code>
+<img height="60" src="html5-brands.svg"><img height="60" src="css3-alt-brands.svg"><img height="60" src="js-square-brands.svg"></code></code> <code><img height="60" src="react-brands.svg"></code>
 
 Over the past year I have spent hundreds of hours becoming familiar with Front-End development.  
 I will be beginning Back-End training at the start of March.
