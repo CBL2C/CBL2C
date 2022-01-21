@@ -4,7 +4,6 @@
 
 ## Hi there,
 
-<hr>
 **I'm Caitlyn Boyd, and I'm learning Full-stack Software Development!**
 
 I'm a self-taught student from Portland, Oregon
