@@ -1,6 +1,4 @@
-<img align="left" src="readme_headerCB.png" />
-
-<br>
+![Header](readme_headerCB.png)
 
 # Hi there,
 
