@@ -12,9 +12,9 @@ I'm a self-taught student from Portland, Oregon
 
 **Technologies:**
 
-<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="60" src="react-brands.svg">
+<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="54" src="ts-svg.svg"> <img height="60" src="react-brands.svg">
 
-Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, and React.
+Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
 I will be completing Front-end development with a few public portfolio projects, then begin Back-End training with Node, Express, and SQL.
 
