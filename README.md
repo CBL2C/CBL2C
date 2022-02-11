@@ -12,17 +12,15 @@ I'm a self-taught student from Portland, Oregon
 
 **Technologies:**
 
-<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="60" src="ts-svg.svg"> <img height="60" src="react-brands.svg"> <img height="60" src="nodejs-icon.svg">
+<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="60" src="ts-svg.svg"> <img height="60" src="react-brands.svg"> <img height="56" src="nodejs-icon.svg">
 
 Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
 I am currently working on a clone of Reddit built in React. It will be available here on GitHub when I feel it is worth showing publicly. 
 
-I will be seeking employment once I feel compentent in Front-End development. my goal is to continue to work on Back-End learning while employed as a front-end developer. 
+I will be seeking employment once I feel compentent in Front-End development. My goal is to continue to work on Back-End learning while employed as a front-end developer. 
 
 Once Front-End portfolio projects are complete, I will begin Back-End development courses with Node, Express, and SQL.
-
-I hope to gain employment as a Front-End developer while continuing my fullstack education. 
 
 <br>
 
