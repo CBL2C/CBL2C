@@ -18,7 +18,7 @@ Over the past year I have spent several hundred hours becoming familiar with Fro
 
 I am currently working on a clone of Reddit built in React. It will be available here on GitHub when I feel it is worth showing publicly. 
 
-I will be seeking employment once I feel compentent in Front-End development. My goal is to continue to work on Back-End learning while employed as a front-end developer. 
+I will be seeking employment once I feel compentent in Front-End development. My goal is to continue to work on Back-End learning while employed as a Front-End developer. 
 
 Once Front-End portfolio projects are complete, I will begin Back-End development courses with Node, Express, and SQL.
 
