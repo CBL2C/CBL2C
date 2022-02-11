@@ -12,7 +12,7 @@ I'm a self-taught student from Portland, Oregon
 
 **Technologies:**
 
-<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="60" src="ts-svg.svg"> <img height="60" src="react-brands.svg">
+<img height="60" src="html5-brands.svg"> <img height="60" src="css3-alt-brands.svg"> <img height="60" src="js-square-brands.svg"> <img height="60" src="ts-svg.svg"> <img height="60" src="react-brands.svg"> <img height="60" src="nodejs-icon.svg">
 
 Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
