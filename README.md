@@ -16,11 +16,13 @@ I'm a self-taught student from Portland, Oregon
 
 Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
-I will be completing frontend development with a few public portfolio projects, the first of which is [Spooflix](https://github.com/CBL2C/Spooflix) 
+I am currently working on a clone of Reddit built in React. It will be available here on GitHub when I feel it is worth showing publicly. 
 
-Once frontend portfolios are complete, I will begin backend development courses with Node, Express, and SQL.
+I will be seeking employment once I feel compentent in Front-End development. my goal is to continue to work on Back-End learning while employed as a front-end developer. 
 
-I hope to gain employment as a frontend developer while continuing my fullstack education. 
+Once Front-End portfolio projects are complete, I will begin Back-End development courses with Node, Express, and SQL.
+
+I hope to gain employment as a Front-End developer while continuing my fullstack education. 
 
 <br>
 
