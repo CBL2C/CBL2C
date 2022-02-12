@@ -1,7 +1,7 @@
 <br>
 
 
-<img src="CBL2C.png">
+<img height="150px" src="CBL2C.png">
 
 <br>
 
