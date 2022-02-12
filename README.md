@@ -16,7 +16,7 @@ I'm a self-taught student from Portland, Oregon
 
 Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
-My first simple React project is [React Friends](https://github.com/CBL2C/Portfolio_React_Friends), which fetches a paginated list of people objects from an API and displays them as bootstrap cards.  React Router and Toast notifications also make an appearance.  **This is an ongoing project as a learn.**
+My first simple React project is [React Friends](https://github.com/CBL2C/Portfolio_React_Friends), which fetches a paginated list of people objects from an API and displays them as bootstrap cards.  React Router and Toast notifications also make an appearance.  **This is an ongoing project as I learn.**
 
 I am currently working on a clone of Reddit built in React. It will be available here on GitHub when I feel it is worth showing publicly. 
 
