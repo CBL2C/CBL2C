@@ -17,7 +17,7 @@ I'm a self-taught student from Portland, Oregon
 
 ⠀⠀<img height="60" src="html5-brands.svg">⠀⠀ <img height="60" src="css3-alt-brands.svg">⠀⠀ <img height="60" src="js-square-brands.svg">⠀⠀ <img height="60" src="ts-svg.svg">⠀⠀ <img height="60" src="react-brands.svg">
 
-Over the past year I have spent several hundred hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
+Over the past year I have spent several thousand hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
 
 My first simple React project is **[React Friends](https://cbl2c.github.io/Portfolio_React_Friends)**, which fetches a paginated list of people objects from an API and displays them as bootstrap cards.  React Router and Toast notifications also make an appearance.  **This is an ongoing project as I learn.**
 
