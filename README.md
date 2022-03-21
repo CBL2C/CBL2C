@@ -17,15 +17,13 @@ I'm a self-taught student from Portland, Oregon
 
 ⠀⠀<img height="60" src="html5-brands.svg">⠀⠀ <img height="60" src="css3-alt-brands.svg">⠀⠀ <img height="60" src="js-square-brands.svg">⠀⠀ <img height="60" src="ts-svg.svg">⠀⠀ <img height="60" src="react-brands.svg">
 
-Over the past year I have spent several thousand hours becoming familiar with Front-End development, JS, jQuery, TypeScript, and React.
+Over the past year I have spent several thousand hours becoming familiar with Front-End development: HTML/CSS, JS, jQuery, TypeScript, and React.
 
-My first simple React project is **[React Friends](https://cbl2c.github.io/Portfolio_React_Friends)**, which fetches a paginated list of people objects from an API and displays them as bootstrap cards.  React Router and Toast notifications also make an appearance.  **This is an ongoing project as I learn.**
+My first simple React project is **[React Friends](https://cbl2c.github.io/Portfolio_React_Friends)**, which fetches a paginated list of people objects from an API and displays them as bootstrap cards.  React Router and Toast notifications also make an appearance. 
 
-I am currently working on a clone of Reddit built in React. It will be available here on GitHub when I feel it is worth showing publicly. 
+**At this time I have switched from working on an intermediate grounding in Javascript/React to learning the basics of Java, as a program I am quite interested in has made time for me to possibly explore an opportunity working with that language. Expect to see Java notes. 
 
-I will be seeking employment once I feel compentent in Front-End development. My goal is to continue to work on Back-End learning while employed as a Front-End developer. 
-
-Once Front-End portfolio projects are complete, I will begin Back-End development courses with Node, Express, and SQL.
+No matter what happens, I will begin Back-End development courses with Node, Express, and SQL -- unless of course I work with an employer who specifies learning a different stack.
 
 <br>
 
