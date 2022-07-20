@@ -7,7 +7,7 @@
 
 ## Hi there,
 
-**I'm Caitlyn Boyd, and I'm a Junior Software Developer from portland, Oregon**
+**I'm Caitlyn Boyd, and I'm a Junior Software Developer from Portland, Oregon**
 
 <br>
 
